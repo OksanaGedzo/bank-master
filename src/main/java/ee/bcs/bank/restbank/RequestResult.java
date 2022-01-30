@@ -3,6 +3,7 @@ package ee.bcs.bank.restbank;
 import lombok.Getter;
 import lombok.Setter;
 
+// Lombok'i annotatsioonid, mis loovad koodi kompileerimise hetkel vajalikud getterid ja setterid
 @Setter
 @Getter
 public class RequestResult {
